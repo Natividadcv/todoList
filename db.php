@@ -9,11 +9,13 @@
         'todolist'
     );
 
+    //Comprobacion de que la conexion se efectua de manera satisfactoria
+    
     // if(isset($conexion)){
     //     echo "Estamos en linea...";
     // }
 
-    //Hola :D
+
 
    
 
